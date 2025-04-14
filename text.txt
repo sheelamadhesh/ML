@@ -1,0 +1,1 @@
+Its Software development framework /development platform that provides runtime environment ,set of libraries and tools to built an application that can run on window OS.

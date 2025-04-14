@@ -1,0 +1,1 @@
+#This file is maintain variables whose value stays same and never change dynamically
